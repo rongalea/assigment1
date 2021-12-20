@@ -1,2 +1,2 @@
-# assigment1
+# assignment1
 Unit 1 Assignment
