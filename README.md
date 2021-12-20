@@ -1,13 +1,10 @@
-#### Case Study Template
-
-```
-# TITLE
+# Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin
 
-* Name of company
+* RDC - Rich Data Co
 
-* When was the company incorporated?
+* When was the company incorpo
 
 * Who are the founders of the company?
 
