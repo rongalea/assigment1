@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-This case study is written about the Rich Data Company (RDC) - an emerging credit risk management provider. The company was founded in 2016 and founded by Ada Guan, Michael Coomer, Charles Guan and Gordon Campbell.
+This case study is written about the Rich Data Company (RDC) - an emerging credit risk management provider. The company was founded in 2016 by Ada Guan, Michael Coomer, Charles Guan and Gordon Campbell.
 
 * When was the company incorpo
 
