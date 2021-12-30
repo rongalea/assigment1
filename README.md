@@ -12,8 +12,6 @@ RDC's intended customers are bank and non-bank lenders globally. In Australia, R
 
 RDC's AI-powered Software as a Service (SaaS) decisioning platform is the flagship product which allows lenders to see why and how decisions are made. RDC provides a single SaaS platform for AI modelling, credit strategy and decisioning, across the entire credit lifecycle. The Delta platform can also forecast future borrower behaviour, which in turn helps lenders more accurately estimate revenues and expenses, while enhancing their ability to judge credit worthiness. The use of AI increases the accuracy of predictions and decisions, meaning banks and lenders can rapidly configure and deploy new products, giving financial institutions a unique competitive edge. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 RDC uses explainable artificial intelligence and predictive machine learning models, traditional and alternative data sources to provide more accurate, transparent and compliant credit decisions (6). When RDC implement Machine Learning solutions there are three main steps; prototyping (data extract), productionising (automation) and translating predictions into decisions (process and people). The RDC AI platform can be hosted by RDC as a SaaS on Amazon Web Services (AWS) or client hosted using the AWS Virtual Private Cloud (VPC) (8). 
 ## Landscape:
 
