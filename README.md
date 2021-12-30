@@ -16,6 +16,7 @@ RDC uses explainable artificial intelligence and predictive machine learning mod
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+RDC operates in the credit (lending) domain, with a focus on business lending in 2022. Specifically RDC is capitalising on the explosion of data and advancements in AI, which have both lead to clients (lenders0 increasing the ways credit is delivered and therefore grown.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
