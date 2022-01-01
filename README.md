@@ -15,12 +15,11 @@ RDC's AI-powered Software as a Service (SaaS) decisioning platform is the flagsh
 RDC uses explainable artificial intelligence and predictive machine learning models, traditional and alternative data sources to provide more accurate, transparent and compliant credit decisions (6). When RDC implement Machine Learning solutions there are three main steps; prototyping (data extract), productionising (automation) and translating predictions into decisions (process and people). The RDC AI platform can be hosted by RDC as a SaaS on Amazon Web Services (AWS) or client hosted using the AWS Virtual Private Cloud (VPC) (8). 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
 RDC operates in the credit (lending) domain, with a focus on business lending in 2022. Specifically RDC is capitalising on the explosion of data and advancements in AI, which have both lead to clients (lenders0 increasing the ways credit is delivered and therefore grown.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+The lending landscape was changed forever during the global financial crisis and the years that followed. Many traditional banking and financial services firms were either destroyed or severely reduced their balance sheets as a result of the losses. The subsequent rise of credit standards, compliance and regulation further hamstrung the incumbent lenders. As the global economy finally stabilized and growth returned, it was clear both consumers and businesses looking for credit had been frozen out of conventional borrowing markets despite abundant central bank liquidity aimed at addressing this very challenge. Alongside the rise of big data, AI and smartphones, many fintechs looked to transform the friction of credit origination and application processes and turned them to their advantage. Alas RDC ensures the outcome is a significantly enhanced capability to lend to more customers with lower risk and default rates.
 
-* What are the other major companies in this domain?
+The major competitors in this domain with comparable ambitions are Equifax, Experian, illion and FICO.
 
 ## Results
 
