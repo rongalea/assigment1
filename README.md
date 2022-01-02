@@ -12,10 +12,10 @@ RDC's intended customers are bank and non-bank lenders globally. In Australia, R
 
 RDC's AI-powered Software as a Service (SaaS) decisioning platform is the flagship product which allows lenders to see why and how decisions are made. RDC provides a single SaaS platform for AI modelling, credit strategy and decisioning, across the entire credit lifecycle. The Delta platform can also forecast future borrower behaviour, which in turn helps lenders more accurately estimate revenues and expenses, while enhancing their ability to judge credit worthiness. The use of AI increases the accuracy of predictions and decisions, meaning banks and lenders can rapidly configure and deploy new products, giving financial institutions a unique competitive edge. 
 
-RDC uses explainable artificial intelligence and predictive machine learning models, traditional and alternative data sources to provide more accurate, transparent and compliant credit decisions (6). When RDC implement Machine Learning solutions there are three main steps; prototyping (data extract), productionising (automation) and translating predictions into decisions (process and people). The RDC AI platform can be hosted by RDC as a SaaS on Amazon Web Services (AWS) or client hosted using the AWS Virtual Private Cloud (VPC) (8). 
+RDC uses explainable artificial intelligence and predictive machine learning models, traditional and alternative data sources to provide more accurate, transparent and compliant credit decisions (6). When RDC implement Machine Learning solutions there are three main steps; prototyping (data extract), productionising (automation) and translating predictions into decisions (process and people). The RDC AI platform can be hosted by RDC as a SaaS on Amazon Web Services (AWS) or client hosted using the AWS Virtual Private Cloud (VPC) (8). Furthermore, RDC partners with leading universities, including UNSW and UTS, for market leading AI research and innovation.
 ## Landscape:
 
-RDC operates in the credit (lending) domain, with a focus on business lending in 2022. Specifically RDC is capitalising on the explosion of data and advancements in AI, which have both lead to clients (lenders0 increasing the ways credit is delivered and therefore grown.
+RDC operates in the credit (lending) domain, with a focus on business lending in 2022. Specifically RDC is capitalising on the explosion of data and advancements in AI, which have both lead to clients (lenders) increasing the ways credit is delivered and therefore grown.
 
 The lending landscape was changed forever during the global financial crisis and the years that followed. Many traditional banking and financial services firms were either destroyed or severely reduced their balance sheets as a result of the losses. The subsequent rise of credit standards, compliance and regulation further hamstrung the incumbent lenders. As the global economy finally stabilized and growth returned, it was clear both consumers and businesses looking for credit had been frozen out of conventional borrowing markets despite abundant central bank liquidity aimed at addressing this very challenge. Alongside the rise of big data, AI and smartphones, many fintechs looked to transform the friction of credit origination and application processes and turned them to their advantage. Alas RDC ensures the outcome is a significantly enhanced capability to lend to more customers with lower risk and default rates.
 
@@ -23,11 +23,11 @@ The major competitors in this domain with comparable ambitions are Equifax, Expe
 
 ## Results
 
-* What has been the business impact of this company so far?
+The Covid pandemic has limited RDC's expansion plans beyond Australia and New Zealand, however within this region RDC's technology is already adopted by over half the largest lenders. Given the success of the market penetration, RDC's experienced management team are very confident their technology will enjoy similar success in North America and Asia. RDC has also partnered with technology ecosystem partners such as Salesforce, ncino and strategic partners such as Accenture, KPMG and Deloitte to bolster commercial access. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+At this realtively infant stage of the business, the following metrics would be considered important by investors and management alike; the number, type and geography of clients, and the growth in client loan books vs increase in bad debts when utilising RDC's AI decisioning tool. As alluded to earlier, customer uptake within Australia and New Zealand has been very strong and importantly adopted by both traditional and neo banks. A Canadian bricks and mortar bank employed RDC's decisioning tool when expanding into digital lending and saw the loan book increase 10% with no susbequent rise in bad debts(8). 
 
-* How is your company performing relative to competitors in the same domain?
+The company is performing well compared to peers in Australia and New Zealand given their experienced management team and speed to market. The expanded capital raising was further evidence RDC is delivering and the calibre of clients such as NAB and Westpac speak volumes for the technology also.
 
 ## Recommendations
 
