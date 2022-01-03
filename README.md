@@ -39,15 +39,16 @@ Within wealth management I believe RDC's use of AI and data analytics could rede
 
 ## References
 
-1. "Founders", Rich Data Corporation, accessed December 20 2021 https://www.richdataco.com/company/
-https://www.afr.com/technology/ai-credit-risk-start-up-banks-15m-after-near-death-20210601-p57x6e
+1. "Company", Rich Data Corporation, accessed December 20 2021 https://www.richdataco.com/company/
+2. Yolanda Redrup "AI credit risk start-up banks $15m after 'near death'," Australian Financial Review, June 8, 2021  https://www.afr.com/technology/ai-credit-risk-start-up-banks-15m-after-near-death-20210601-p57x6e
+3. "Oz credit risk platform Rich Data Corp raises $15 million", acecessed December 21, 2021 
 https://www.finextra.com/pressarticle/87997/oz-credit-risk-platform-rich-data-corp-raises-15-million
-RDC Workshop Output Deck (FTI)
-RDC Introduction - FTI Consulting September 2021
-https://www.fintechaustralia.org.au/cloud-saas-fintechs-mambu-and-rich-data-co-partner-to-support-ai-innovation-for-lenders/
-https://www.richdataco.com/machine-learning-how-to-deliver-dollars-from-data/
-RDC Introduction 21 v1.0
-https://stockhead.com.au/tech/moneyme-secures-fresh-200m-to-accelerate-its-tearaway-car-loans-platform-autopay/
+4. "RDC Workshop Output Deck", FTI Consulting, September 2021.
+5. RDC Introduction - FTI Consulting September 2021
+6. https://www.fintechaustralia.org.au/cloud-saas-fintechs-mambu-and-rich-data-co-partner-to-support-ai-innovation-for-lenders/
+7. https://www.richdataco.com/machine-learning-how-to-deliver-dollars-from-data/
+8. RDC Introduction 21 v1.0
+9. https://stockhead.com.au/tech/moneyme-secures-fresh-200m-to-accelerate-its-tearaway-car-loans-platform-autopay/
 
 
 
