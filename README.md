@@ -31,13 +31,24 @@ The company is performing well compared to peers in Australia and New Zealand gi
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+My recommendation for the company would be to expand vertically into insurance, auto lending and to enhance product growth in wealth management by enabling clients to better map their underlying client profiles. Clearly the use of alternate data sources to aid risk profiling has clear benefits for insurance underwriting, auto lending and wealth management offerings. 
 
-* Why do you think that offering this product or service would benefit the company?
+Importantly for auto lending, RDC's platform can both reduce the approval times of auto loans, but also enhance pricing startegies to help clients grow their loan books without increasing the likelihood of defaults. The success of MoneyMe's AutoPay platform suggests auto lending is an area where many traditional lenders have stepped away from and alas opportunities for tech-savvy digital lenders who can centralize the fragmented car sales network (9). 
 
-* What technologies would this additional product or service utilize?
+Within wealth management I believe RDC's use of AI and data analytics could redefine both the regulatory 'Know Your Client' (KYC) requirement and the subsequent sale strategies adopted. Furthermore margin lending or investment loan application processes would be vastly enhanced adding further to the end-client experience. 
 
-* Why are these technologies appropriate for your solution?
+## References
+
+1. "Founders", Rich Data Corporation, accessed December 20 2021 https://www.richdataco.com/company/
+https://www.afr.com/technology/ai-credit-risk-start-up-banks-15m-after-near-death-20210601-p57x6e
+https://www.finextra.com/pressarticle/87997/oz-credit-risk-platform-rich-data-corp-raises-15-million
+RDC Workshop Output Deck (FTI)
+RDC Introduction - FTI Consulting September 2021
+https://www.fintechaustralia.org.au/cloud-saas-fintechs-mambu-and-rich-data-co-partner-to-support-ai-innovation-for-lenders/
+https://www.richdataco.com/machine-learning-how-to-deliver-dollars-from-data/
+RDC Introduction 21 v1.0
+https://stockhead.com.au/tech/moneyme-secures-fresh-200m-to-accelerate-its-tearaway-car-loans-platform-autopay/
+
 
 
 
