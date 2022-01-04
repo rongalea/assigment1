@@ -14,7 +14,7 @@ RDC's AI-powered Software as a Service (SaaS) decisioning platform is the compan
 
 RDC uses explainable artificial intelligence and predictive machine learning models, traditional and alternative data sources to provide more accurate, transparent and compliant credit decisions (6). When RDC implement Machine Learning solutions there are three main steps; prototyping (data extraction), productionising (automation) and translating predictions into decisions (process and people). The RDC AI platform can be hosted by RDC as a SaaS on Amazon Web Services (AWS) or client hosted using the AWS Virtual Private Cloud (VPC) (8). Furthermore, RDC partners with leading universities, including UNSW and UTS, for market leading AI research and innovation.
 
-## Landscape:
+## Landscape
 
 RDC operates in the credit (lending) domain, with a strategic focus on business lending in 2022. Specifically RDC is capitalising on the explosion of data and advancements in AI, which have both lead to clients (lenders) increasing the ways credit is delivered and therefore expanded.
 
