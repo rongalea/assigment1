@@ -4,7 +4,7 @@
 
 This case study focuses on the Rich Data Corporation (RDC) - an emerging credit risk management provider. The company was founded in 2015 by Ada Guan, Michael Coomer, Charles Guan and Gordon Campbell (1). The founders having enjoyed distinguished banking and software careers saw an opportunity to bolster financial inclusion by creating more accurate credit risk models for lending by incoprorating behavioural data from a number of alternate sources(2). In June of 2021 the company raised $15m from strategic investors to enable its growth initiatives in Australia and abroad (3). 
 
-## Business Activities:
+## Business Activities
 
 The RDC founders believed the existing lending criteria and credit decisioning process was biased toward property owners, especially for SME loan applications or those with thin credit histories. RDC wanted to create a new way to not only assess credit worthiness, but also to help predict future repayment behaviour for those applicants with a short or limited credit history. RDC was created to help lenders assess applicants in new and data-driven ways, helping to reduce financial exclusion and furthermore provide credit for growing businesses, while reducing decision time (4). Importantly for RDC, the COVID pandemic has rendered past behaviour a weaker predictor than it once was and presents an opportunity for RDC to enable lenders to adapt to this paradigm shift. 
 
